@@ -20,6 +20,7 @@ public class Arraycopy {
 		
 		System.out.println(Arrays.toString(a));
 		System.out.println(Arrays.toString(b));
+		System.out.println("Mysore Home sweet home");
 	}
 	
 	
