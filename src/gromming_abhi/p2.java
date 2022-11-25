@@ -4,10 +4,10 @@ public class p2 {
 public static void main(String[] args) {
 	int a=100;
 	int b=300;
-	int temp;
-	temp=a;
+	int tempi
+	tempi=a;
 	a=b;
-	b=temp;
+	b=tempi;
 	System.out.println(a);
 	System.out.println(b);
 }
